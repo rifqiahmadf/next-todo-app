@@ -1,77 +1,40 @@
-# Demo Todo App with Next.js 13, Server Actions, and Drizzle ORM
+# Academy Tutorial Repository
 
-Explore the capabilities of Next.js 13 through our demo repository showcasing a
-simple todo app. Dive into server actions and leverage Drizzle ORM integration
-to grasp how to efficiently manage tasks.
+## Overview
 
-## Learn More
+This repository is created to support the **Academy Tutorial Program**. It contains learning materials, examples, and exercises that are used by participants during the academy sessions.
 
-To learn more about Next.js, take a look at the following resources:
+The purpose of this repository is to help participants follow the tutorials step-by-step and practice the concepts that are taught throughout the program.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js
-  features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-- [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) - to
-  automatically optimize and load Inter and Lexend from Google Fonts.
+## Contents
 
-This repository contains a simple demo todo app created with Next.js 13,
-showcasing the usage of server actions and integration with Drizzle ORM. It
-serves as a practical example to help you understand the implementation of these
-features and build efficient applications.
+Inside this repository you may find:
 
-## Features
+* Tutorial guides
+* Example source code
+* Practice exercises
+* Supporting resources for each session
 
-- Manage tasks: Create, update, and delete todos with ease.
-- Server actions: Utilize server-side logic for handling todo operations.
-- Drizzle ORM integration: Seamlessly interact with the database using Drizzle
-  ORM.
+Each folder or module corresponds to a specific topic or session in the academy.
 
-## Getting Started
+## How to Use
 
-### Prerequisites
+1. Clone this repository to your local machine.
+2. Follow the instructions provided in each tutorial folder.
+3. Complete the exercises as guided by the instructors.
+4. Experiment and modify the code to deepen your understanding.
 
-- Node.js and npm installed on your local machine.
+## Who Is This For?
 
-### Installation
+This repository is intended for **academy participants** who are following the tutorial sessions. It serves as a hands-on learning resource to complement the training materials.
 
-1. Clone this repository:
+## Contributing
 
-   ```bash
-   git clone https://github.com/raymondkneipp/next-todo-app.git
-   ```
+Participants may update their exercises or experiment with the code locally. If contributions to the repository are required, please follow the guidelines provided by the instructors.
 
-2. Navigate to the project directory:
+## Notes
 
-   ```bash
-   cd next-todo-app
-   ```
+* Make sure you follow the tutorial instructions in order.
+* If you encounter any issues, please reach out to the instructors or mentors during the academy session.
 
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
-
-### Usage
-
-1. Start the development server:
-
-   ```bash
-   npm run dev
-   ```
-
-2. Open your browser and visit [http://localhost:3000](http://localhost:3000) to
-   access the app.
-
-### Contributing
-
-Contributions are welcome! If you find any issues or have ideas for
-improvements, please open an issue or submit a pull request.
-
-### License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to explore the codebase, experiment with server actions and Drizzle
-ORM, and learn how to create powerful applications using Next.js 13.
+Happy learning and enjoy the academy! 🚀
